@@ -1,4 +1,4 @@
-# Pracica-ascensor-inteligente-PMM
+# Practica-ascensor-inteligente-PMM
 # 🛗 Proyecto de Ascensor Inteligente - ACME S.A.
 
 Este proyecto consiste en el desarrollo de un sistema de control embebido para un ascensor de 5 plantas, integrando sensores y actuadores bajo una lógica de eficiencia energética.

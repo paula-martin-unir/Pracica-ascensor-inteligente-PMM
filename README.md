@@ -4,7 +4,7 @@
 Este proyecto consiste en el desarrollo de un sistema de control embebido para un ascensor de 5 plantas, integrando sensores y actuadores bajo una lógica de eficiencia energética.
 
 ## 🚀 Enlace a la Simulación
-[Haz clic aquí para ver el proyecto en WOKWI](PEGA_AQUI_TU_LINK_DE_WOKWI)
+[Haz clic aquí para ver el proyecto en WOKWI]https://wokwi.com/projects/463353049165237249
 
 ## 🛠️ Componentes Utilizados
 - **Arduino Uno** como unidad de control.
